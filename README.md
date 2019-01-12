@@ -22,7 +22,7 @@ terraform [plan, apply]
 
 ## Healthchecks
 
-For production environments Route53 health checks can be enabled with enable_r53_healthcheck if requested.
+For production environments Route53 health checks can be enabled with `enable_r53_healthcheck` if requested.
 
 ## Inputs
 
